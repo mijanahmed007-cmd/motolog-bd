@@ -1,0 +1,16 @@
+{
+  "appId": "com.mijanahmed.motologbd",
+  "appName": "MotoLog BD",
+  "webDir": "dist",
+  "backgroundColor": "#111827",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#111827"
+  },
+  "ios": {
+    "backgroundColor": "#111827",
+    "contentInset": "always"
+  }
+}
